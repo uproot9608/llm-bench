@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.egg-info/
+build/
+dist/
+
+# Environments
+.env
+.venv/
+
+# Tool caches
+.pytest_cache/
+
+# macOS
+.DS_Store
